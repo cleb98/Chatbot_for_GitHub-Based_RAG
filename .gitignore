@@ -75,3 +75,10 @@ config.yaml
 
 # VSCode Python-specific
 __pypackages__/
+
+# txt, csv, and other data files
+*.txt
+*.csv
+*.pdf   
+*.xlsx
+
