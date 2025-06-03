@@ -1,0 +1,4 @@
+repo_url: "https://github.com/cleb98/PANet"
+local_repo_dir: "tmp_repo"
+output_md_path: "exctracted_repo.md"
+include_extensions: [".py", ".md"]

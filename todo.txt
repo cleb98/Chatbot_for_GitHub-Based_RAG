@@ -1,0 +1,19 @@
+# python extraction
+togli il fatto che tutti gli import hanno un 
+'''python
+import ...
+'''
+'''python
+import ...
+'''
+
+sarebbe meglio 
+'''python
+import 1
+import 2
+etc
+
+# MD PROBLEM
+sull'md c'è una distinzione di blocchi ma secondo me non c'è bisogno.
+Devo ragionarci se ha senso in termini di chunking
+

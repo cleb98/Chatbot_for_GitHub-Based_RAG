@@ -1,0 +1,77 @@
+#folder to ignore
+#tutto cio che è in "tmp_repo"
+
+*tmp_repo/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cython files
+*.c
+*.cpp
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+*.env
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Unit test / coverage
+.coverage
+.tox/
+.nox/
+htmlcov/
+.cache/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*.ipynb
+
+# PyCharm / VSCode
+.idea/
+.vscode/
+*.code-workspace
+
+# Mac & Windows system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logging/debug/output
+*.log
+*.tmp
+
+# Secrets/config (edit as needed)
+.env
+.env.*
+secrets.yaml
+config.yaml
+
+# MyPy / Pyre / Pytype
+.mypy_cache/
+.pyre/
+.pytype/
+
+# Notebooks executed
+*.nbconvert.ipynb
+
+# VSCode Python-specific
+__pypackages__/
